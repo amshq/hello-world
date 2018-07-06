@@ -1,3 +1,8 @@
 hello world 
 2018.07.05
+<<<<<<< HEAD
 form testing branch
+=======
+master modifiy
+hotfix branch
+>>>>>>> master
